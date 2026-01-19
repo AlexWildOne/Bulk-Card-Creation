@@ -1,0 +1,2580 @@
+[
+    {
+        "key": "group_68e53a23924c7",
+        "title": "Caetano Review",
+        "fields": [
+            {
+                "key": "field_68e53b0ca2f1a",
+                "label": "Google Review Caetano",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "open": 0,
+                "multi_expand": 0,
+                "endpoint": 0
+            },
+            {
+                "key": "field_68e53a257d1b4",
+                "label": "Google Review BMW PORTO",
+                "name": "google_review_bmw_porto",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_68e53a907d1b5",
+                "label": "Google Review BMW GAIA",
+                "name": "google_review_bmw_gaia",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_68e53a9d7d1b6",
+                "label": "Google Review BMW MATOSINHOS",
+                "name": "google_review_bmw_matosinhos",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_68e53aae7d1b7",
+                "label": "Google Review BMW MAIA",
+                "name": "google_review_bmw_maia",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_68e53ab87d1b8",
+                "label": "Google Review MINI PORTO",
+                "name": "google_review_mini_porto",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_68e53ac87d1b9",
+                "label": "Google Review MINI GAIA",
+                "name": "google_review_mini_gaia",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_68e53add7d1ba",
+                "label": "Google Review MINI MATOSINHOS",
+                "name": "google_review_mini_matosinhos",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_68e53aee7d1bb",
+                "label": "Google Review MINI MAIA",
+                "name": "google_review_mini_maia",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_696e7b8d3fce4",
+                "label": "Google Review BMW S.M.FEIRA",
+                "name": "google_review_bmw_smfeira",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_696e7bcbb5cff",
+                "label": "Google Review BMW AVEIRO",
+                "name": "google_review_bmw_aveiro",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_696e7be3b5d00",
+                "label": "Google Review BMW MOTORRAD S.M.FEIRA",
+                "name": "google_review_motorrad_smfeira",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_696e7c06b5d01",
+                "label": "Google Review BMW MOTORRAD AVEIRO",
+                "name": "google_review_motorrad_aveiro",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "797"
+                },
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "526"
+                },
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "514"
+                },
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "1485"
+                }
+            ],
+            [
+                {
+                    "param": "post",
+                    "operator": "==",
+                    "value": "772"
+                },
+                {
+                    "param": "post",
+                    "operator": "==",
+                    "value": "5766"
+                },
+                {
+                    "param": "post",
+                    "operator": "==",
+                    "value": "12522"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "caetano-baviera"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "left",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0,
+        "display_title": "",
+        "acfe_autosync": [
+            "php",
+            "json"
+        ],
+        "acfe_form": 0,
+        "no_values_message": "",
+        "acfe_meta": "",
+        "acfe_note": "",
+        "acfe_categories": {
+            "corporate-card": "Corporate Card"
+        }
+    },
+    {
+        "key": "group_6737504a01482",
+        "title": "Display Options",
+        "fields": [
+            {
+                "key": "field_6741f5ae97f12",
+                "label": "Aparência",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_673750528bd7a",
+                "label": "Cor de Fundo",
+                "name": "cor_de_fundo",
+                "aria-label": "",
+                "type": "color_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "#000000",
+                "enable_opacity": 0,
+                "return_format": "string",
+                "allow_in_bindings": 0,
+                "custom_palette_source": "",
+                "palette_colors": "",
+                "show_color_wheel": true
+            },
+            {
+                "key": "field_673750978bd7b",
+                "label": "Cor de Destaque e Caixa de Texto",
+                "name": "Cor_de_Caixa_de_Texto",
+                "aria-label": "",
+                "type": "color_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "#808081",
+                "enable_opacity": 0,
+                "return_format": "string",
+                "allow_in_bindings": 0,
+                "custom_palette_source": "",
+                "palette_colors": "",
+                "show_color_wheel": true
+            },
+            {
+                "key": "field_673750cc8bd7d",
+                "label": "Cor Títulos",
+                "name": "Cor_Titulos",
+                "aria-label": "",
+                "type": "color_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "#ffffff",
+                "enable_opacity": 0,
+                "return_format": "string",
+                "allow_in_bindings": 0,
+                "custom_palette_source": "",
+                "palette_colors": "",
+                "show_color_wheel": true
+            },
+            {
+                "key": "field_673751018bd7e",
+                "label": "Cor Texto",
+                "name": "Cor_Texto",
+                "aria-label": "",
+                "type": "color_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "#ffffff",
+                "enable_opacity": 0,
+                "return_format": "string",
+                "allow_in_bindings": 0,
+                "custom_palette_source": "",
+                "palette_colors": "",
+                "show_color_wheel": true
+            },
+            {
+                "key": "field_6741f5f771182",
+                "label": "Cor Borda Social Icons",
+                "name": "cor_borda_social_icons",
+                "aria-label": "",
+                "type": "color_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "#000000",
+                "enable_opacity": 0,
+                "return_format": "string",
+                "allow_in_bindings": 0,
+                "custom_palette_source": "",
+                "palette_colors": "",
+                "show_color_wheel": true
+            },
+            {
+                "key": "field_673751268bd7f",
+                "label": "Cor texto Botões  Icons",
+                "name": "cor_texto_botoes_icons",
+                "aria-label": "",
+                "type": "color_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "#ffffff",
+                "enable_opacity": 0,
+                "return_format": "string",
+                "allow_in_bindings": 0,
+                "custom_palette_source": "",
+                "palette_colors": "",
+                "show_color_wheel": true
+            },
+            {
+                "key": "field_673751608bd80",
+                "label": "Cor Fundo Botões e Icons",
+                "name": "cor_fundo_botoes_icons",
+                "aria-label": "",
+                "type": "color_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "#000000",
+                "enable_opacity": 0,
+                "return_format": "string",
+                "allow_in_bindings": 0,
+                "custom_palette_source": "",
+                "palette_colors": "",
+                "show_color_wheel": true
+            },
+            {
+                "key": "field_6737517e8bd81",
+                "label": "Cor Borda Botões e Icons",
+                "name": "cor_borda_botoes_icons",
+                "aria-label": "",
+                "type": "color_picker",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "#ffffff",
+                "enable_opacity": 0,
+                "return_format": "string",
+                "allow_in_bindings": 0,
+                "custom_palette_source": "",
+                "palette_colors": "",
+                "show_color_wheel": true
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "526"
+                }
+            ],
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "520"
+                }
+            ],
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "797"
+                }
+            ],
+            [
+                {
+                    "param": "post",
+                    "operator": "==",
+                    "value": "811"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "the-wild-one-special"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "nfc-id-card-one"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "amorim"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "caetano-baviera"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "all"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "caetano-baviera"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "left",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0,
+        "display_title": "",
+        "acfe_autosync": [
+            "php",
+            "json"
+        ],
+        "acfe_form": 0,
+        "no_values_message": "",
+        "acfe_meta": "",
+        "acfe_note": "",
+        "acfe_categories": {
+            "corporate-card": "Corporate Card",
+            "social-network": "Social Network",
+            "the-wild-one-special": "The Wild One Special"
+        }
+    },
+    {
+        "key": "group_6644c5a924d97",
+        "title": "Formulário Utilizador",
+        "fields": [
+            {
+                "key": "field_6728b6240506d",
+                "label": "Author",
+                "name": "post_author",
+                "aria-label": "",
+                "type": "post_author",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "frontend_admin_display_mode": "hidden",
+                "role": [
+                    "author",
+                    "subscriber",
+                    "free_wild_one",
+                    "administrator",
+                    "pms_subscription_plan_12522",
+                    "pms_subscription_plan_12521",
+                    "corporate_wild_one",
+                    "wild_one_user",
+                    "caetano_baviera"
+                ],
+                "data_name": "author",
+                "multiple": 0,
+                "allow_null": 0,
+                "return_format": "array"
+            },
+            {
+                "key": "field_67278790b3d04",
+                "label": "URL do Cartão",
+                "name": "url_do_cartao",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "frontend_admin_display_mode": "hidden",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_6726134b6d0ba",
+                "label": "Tipo de Cartão",
+                "name": "post_type",
+                "aria-label": "",
+                "type": "post_type",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_6653b0ada7219",
+                            "operator": "!=",
+                            "value": "Caetano Baviera"
+                        },
+                        {
+                            "field": "field_6653b0ada7219",
+                            "operator": "!=",
+                            "value": "AMORIM CORK COMPOSITES"
+                        }
+                    ],
+                    [
+                        {
+                            "field": "field_6653b0ada7219",
+                            "operator": "!=",
+                            "value": "Caetano Baviera"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "read_only",
+                "no_values_message": "",
+                "default_value": "caetano-baviera",
+                "post_type_options": [
+                    "caetano-baviera"
+                ],
+                "field_type": "radio",
+                "acfe_permissions": [
+                    "administrator",
+                    "corporate_wild_one",
+                    "wild_one_user",
+                    "pms_subscription_plan_12521",
+                    "pms_subscription_plan_12522"
+                ],
+                "multiple": 0,
+                "allow_null": 0,
+                "choices": [],
+                "ui": 0,
+                "ajax": 0,
+                "placeholder": "",
+                "return_format": "value",
+                "layout": "vertical",
+                "other_choice": 0
+            },
+            {
+                "key": "field_691cb7ceee3ea",
+                "label": "Wild One Special",
+                "name": "post_type",
+                "aria-label": "",
+                "type": "post_type",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "read_only",
+                "no_values_message": "",
+                "default_value": "the-wild-one-special",
+                "post_type_options": [
+                    "the-wild-one-special"
+                ],
+                "field_type": "radio",
+                "multiple": 0,
+                "allow_null": 0,
+                "choices": [],
+                "ui": 0,
+                "ajax": 0,
+                "placeholder": "",
+                "return_format": "value",
+                "layout": "vertical",
+                "other_choice": 0
+            },
+            {
+                "key": "field_677eafdd8668b",
+                "label": "Social Network",
+                "name": "post_type",
+                "aria-label": "",
+                "type": "post_type",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_6653b0ada7219",
+                            "operator": "==contains",
+                            "value": "AMORIM CORK COMPOSITES"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "read_only",
+                "no_values_message": "",
+                "default_value": "sn",
+                "post_type_options": [
+                    "sn"
+                ],
+                "field_type": "radio",
+                "multiple": 0,
+                "allow_null": 0,
+                "choices": [],
+                "ui": 0,
+                "ajax": 0,
+                "placeholder": "",
+                "return_format": "value",
+                "layout": "vertical",
+                "other_choice": 0
+            },
+            {
+                "key": "field_677eb0a86afab",
+                "label": "Caetano Baviera",
+                "name": "post_type",
+                "aria-label": "",
+                "type": "post_type",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": [
+                    [
+                        {
+                            "field": "field_6653b0ada7219",
+                            "operator": "==",
+                            "value": "Caetano Baviera"
+                        }
+                    ]
+                ],
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "caetano-baviera",
+                "post_type_options": [
+                    "caetano-baviera"
+                ],
+                "field_type": "radio",
+                "multiple": 0,
+                "allow_null": 0,
+                "choices": [],
+                "ui": 0,
+                "ajax": 0,
+                "placeholder": "",
+                "return_format": "value",
+                "layout": "vertical",
+                "other_choice": 0
+            },
+            {
+                "key": "field_672411246e013",
+                "label": "Card Title",
+                "name": "post_title",
+                "aria-label": "",
+                "type": "post_title",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "New Card TWT",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": "",
+                "custom_slug": 1,
+                "acfe_settings": "",
+                "acfe_validate": "",
+                "acfe_permissions": "",
+                "data_name": "title"
+            },
+            {
+                "key": "field_672613896d0bb",
+                "label": "Editar Cartão",
+                "name": "ordem_do_no_menu_copy2",
+                "aria-label": "",
+                "type": "post_to_edit",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "post_author": [
+                    "current_user"
+                ],
+                "url_query": "post_id",
+                "post_type": [
+                    "nfc-id-card",
+                    "post",
+                    "admin_form",
+                    "nfc-id-card-one"
+                ],
+                "taxonomy": [
+                    "category:perfil-nfc-id",
+                    "nova-cartao:criar-nfc",
+                    "category:nfc-card",
+                    "post_tag:nfcid",
+                    "post_tag:card"
+                ],
+                "placeholder": "Selecionar o Cartão",
+                "add_new": 0,
+                "allow_null": 0,
+                "add_new_text": "New Post",
+                "multiple": 0,
+                "ui": 1,
+                "no_data_collect": 1
+            },
+            {
+                "key": "field_6741f64045fa7",
+                "label": "Profile",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "open": 1,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_67261203347bd",
+                "label": "Profile Image",
+                "name": "featured_image",
+                "aria-label": "",
+                "type": "featured_image",
+                "instructions": "Faça upload da sua foto de Perfil",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-featured-image"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "return_format": "array",
+                "show_preview": 1,
+                "show_preview_in": "",
+                "preview_type": "img",
+                "library": "all",
+                "min_width": 600,
+                "min_height": 600,
+                "min_size": "",
+                "max_width": 4000,
+                "max_height": 4000,
+                "max_size": 4,
+                "resize_file": 1,
+                "no_file_text": "No Image selected",
+                "button_text": "Adicionar Foto de Perfil",
+                "custom_directory": 1,
+                "custom_directory_name": "",
+                "secure_directory": 1,
+                "hide_from_library": 0,
+                "mime_types": "jpg, jpeg, png, gif, svg, webp, bmp, tiff, ico, heic, heif, raw, dng, psd",
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_67258669a001b",
+                "label": "Imagem de Capa (16:9)",
+                "name": "cover_photo",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "Imagem 16:9, foco ao centro. Mín. 1920×1080. Formatos: JPG\/WebP\/PNG. Peso máx. 10 MB",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "100",
+                    "class": "twt-full",
+                    "id": "twt-formulario-utilizador-cover"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "uploader": "",
+                "return_format": "array",
+                "library": "all",
+                "no_file_text": "",
+                "button_text": "Adicionar capa",
+                "custom_directory": 1,
+                "custom_directory_name": "twt-uploads\/{post:type}\/{post:ID}\/cover",
+                "secure_directory": 0,
+                "hide_from_library": 0,
+                "local_avatar": 0,
+                "acfe_thumbnail": 0,
+                "min_width": "",
+                "min_height": "",
+                "min_size": "",
+                "max_width": "",
+                "max_height": "",
+                "max_size": 10,
+                "mime_types": "jpg, jpeg, png, gif, webp, bmp, ico, raw, dng, psd",
+                "allow_in_bindings": 1,
+                "preview_size": "medium_large"
+            },
+            {
+                "key": "field_6725868ca001c",
+                "label": "Logo Photo",
+                "name": "logo_photo",
+                "aria-label": "",
+                "type": "image",
+                "instructions": "Logo horizontal, fundo transparente. Mín. 800×200. Formatos: SVG\/PNG\/WebP (preferencial). Peso máx. 3 MB",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-logo"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "uploader": "",
+                "return_format": "array",
+                "library": "all",
+                "no_file_text": "Nenhum Logo selecionado",
+                "button_text": "Adicionar Logo",
+                "custom_directory": 1,
+                "custom_directory_name": "twt-uploads\/{post:type}\/{post:ID}\/brand",
+                "secure_directory": 0,
+                "hide_from_library": 0,
+                "local_avatar": 0,
+                "acfe_thumbnail": 0,
+                "min_width": 800,
+                "min_height": 800,
+                "min_size": "",
+                "max_width": 4000,
+                "max_height": 4000,
+                "max_size": 3,
+                "mime_types": "jpg, jpeg, png, gif, svg, webp, bmp, tiff, ico, heic, heif, raw, dng, psd",
+                "allow_in_bindings": 1,
+                "preview_size": "medium"
+            },
+            {
+                "key": "field_672586a3a001d",
+                "label": "Nome",
+                "name": "name",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Nome legal para vCard e assinaturas. Ex.: Tiago Arlindo",
+                "required": 1,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-name"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": 100,
+                "allow_in_bindings": 1,
+                "placeholder": "Tiago Arlindo",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_672586aba001e",
+                "label": "Position",
+                "name": "position",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Cargo\/função a apresentar no cartão e no perfil. Ex.: Diretor de Operações.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-position"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": 80,
+                "allow_in_bindings": 1,
+                "placeholder": "Diretor de Operações",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6788cdd8de1af",
+                "label": "Departamento",
+                "name": "departamento",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Departamento\/área do colaborador. Ex.: Marketing, Operações, Financeiro.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-department"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": 80,
+                "allow_in_bindings": 0,
+                "placeholder": "Marketing",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6653b0ada7219",
+                "label": "Company",
+                "name": "company_name",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Nome da empresa a apresentar no cartão\/perfil.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-company-name"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": 80,
+                "allow_in_bindings": 1,
+                "placeholder": "The Wild Theory",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6786e412d708c",
+                "label": "Polo",
+                "name": "polo",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Local\/pólo de trabalho. Ex.: Lisboa, Porto, Remoto.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "33",
+                    "class": "twt-1-3",
+                    "id": "twt-formulario-utilizador-polo"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": 40,
+                "allow_in_bindings": 1,
+                "placeholder": "Porto",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6741f69045fa8",
+                "label": "Entre em Contacto",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_6741f84445fac",
+                "label": "Button Text",
+                "name": "label_button_text",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Texto do botão de contacto (CTA curto). Ex.: Contactar, Enviar mensagem.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "33",
+                    "class": "twt-1-3",
+                    "id": "twt-formulario-utilizador-label-button-text"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "Add to Contacts",
+                "maxlength": 24,
+                "allow_in_bindings": 1,
+                "placeholder": "Contactar",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_674203bd12201",
+                "label": "Contact Button Text",
+                "name": "contact_button_text",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Texto alternativo para o botão de contacto (se aplicável).",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "33",
+                    "class": "twt-1-3",
+                    "id": "twt-formulario-utilizador-contact-button-text"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "Contact",
+                "maxlength": 24,
+                "allow_in_bindings": 1,
+                "placeholder": "Enviar mensagem",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6741f6df45fa9",
+                "label": "Label",
+                "name": "label_contacto",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Legenda descritiva a exibir antes do contacto. Ex.: Telefone, E-mail, WhatsApp.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "33",
+                    "class": "twt-1-3",
+                    "id": "twt-formulario-utilizador-label-contacto"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "Get in Contact",
+                "maxlength": 40,
+                "allow_in_bindings": 1,
+                "placeholder": "Telefone",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66539bdf5d2cb",
+                "label": "Contact",
+                "name": "contact",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Telefone: +351 912 345 678 (link: tel:+351912345678)\r\nE-mail: nome@empresa.pt (link: mailto:nome@empresa.pt)\r\nURL: https:\/\/…",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-contact"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": 120,
+                "allow_in_bindings": 1,
+                "placeholder": "+351 912 345 678",
+                "prepend": "tel:",
+                "append": ""
+            },
+            {
+                "key": "field_67b646bae879c",
+                "label": "Contact Link",
+                "name": "contact_link",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "“Link direto do contacto (ex.: tel:+351…, mailto:…, https:\/\/…).”",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": "twt-formulariutilizador-contact-link"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 1,
+                "placeholder": "",
+                "prepend": "tel:",
+                "append": ""
+            },
+            {
+                "key": "field_66539dc25d2d7",
+                "label": "Número do WhatsApp",
+                "name": "whatsapp_link",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "Use https:\/\/wa.me\/ + número internacional sem ‘+’. Ex.: https:\/\/wa.me\/351912345678.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "100",
+                    "class": "",
+                    "id": "twt-formulario-utilizador-whatsapp"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "https:\/\/wa.me\/",
+                "allow_in_bindings": 1,
+                "placeholder": "Coloque o seu contacto com indicativo do país (sem o +)"
+            },
+            {
+                "key": "field_6644c61286dc9",
+                "label": "E-mail",
+                "name": "e-mail",
+                "aria-label": "",
+                "type": "email",
+                "instructions": "E-mail de trabalho. Ex.: nome@empresa.pt (validação automática).",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-email"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "allow_in_bindings": 1,
+                "placeholder": "nome@empresa.pt",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6741f7c645faa",
+                "label": "Label",
+                "name": "label_email",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-label-email"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "Our E-mail",
+                "maxlength": "",
+                "allow_in_bindings": 1,
+                "placeholder": "Our E-mail",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6653b110a721a",
+                "label": "Corp. E-mail",
+                "name": "company_e_mail",
+                "aria-label": "",
+                "type": "email",
+                "instructions": "E-mail geral da empresa (se aplicável).",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-company-email"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "allow_in_bindings": 1,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6653b25aa721c",
+                "label": "Company Contact",
+                "name": "company_contact",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Telefone geral da empresa. Formato de link: tel:+351….",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "100",
+                    "class": "",
+                    "id": "twt-formulario-utilizador-company-contact"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 1,
+                "placeholder": "",
+                "prepend": "tel:",
+                "append": ""
+            },
+            {
+                "key": "field_6653b2afa721d",
+                "label": "Website",
+                "name": "website",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "URL do site institucional. Ex.: https:\/\/empresa.pt.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "100",
+                    "class": "",
+                    "id": "twt-formulario-utilizador-website"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "allow_in_bindings": 1,
+                "placeholder": ""
+            },
+            {
+                "key": "field_6741f80545fab",
+                "label": "Label",
+                "name": "label_address",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "100",
+                    "class": "",
+                    "id": "twt-formulario-utilizador-label-address"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "Where we are",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66539ce55d2cf",
+                "label": "Address",
+                "name": "address",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "Morada completa para exibição e Google Maps.",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "100",
+                    "class": "",
+                    "id": "twt-formulario-utilizador-address"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 1,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66539d085d2d0",
+                "label": "Postal Code",
+                "name": "postal_code",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": "twt-formulario-utilizador-postal-code"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 1,
+                "placeholder": "XXXX-XXX",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_672431d7bb61f",
+                "label": "Cidade",
+                "name": "cidade",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": "twt-formulario-utilizador-cidade"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 1,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_66539d3e5d2d2",
+                "label": "Distrito",
+                "name": "distrito",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-distrito"
+                },
+                "frontend_admin_display_mode": "hidden",
+                "default_value": "",
+                "maxlength": 51,
+                "allow_in_bindings": 1,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_672431bcbb61e",
+                "label": "País",
+                "name": "pais",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "twt-1-2",
+                    "id": "twt-formulario-utilizador-pais"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "maxlength": "",
+                "allow_in_bindings": 1,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6741f91f45fad",
+                "label": "Label",
+                "name": "label_direcoes",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "Directions",
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6653a20fbeabf",
+                "label": "Google Maps",
+                "name": "direcoes",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": "twt-formulario-utilizador-google-maps"
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "allow_in_bindings": 1,
+                "placeholder": "https:\/\/g.co\/kgs\/dEPWfVK"
+            },
+            {
+                "key": "field_6726146530408",
+                "label": "About",
+                "name": "about",
+                "aria-label": "",
+                "type": "textarea",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "frontend_admin_display_mode": "hidden",
+                "no_values_message": "",
+                "default_value": "",
+                "acfe_textarea_code": 0,
+                "maxlength": "",
+                "allow_in_bindings": 0,
+                "rows": "",
+                "placeholder": "",
+                "new_lines": ""
+            },
+            {
+                "key": "field_6728bb0af9dcd",
+                "label": "Post_object",
+                "name": "post_object",
+                "aria-label": "",
+                "type": "post_object",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "frontend_admin_display_mode": "hidden",
+                "no_values_message": "",
+                "post_type": [
+                    "nfc-id-card",
+                    "post",
+                    "nfc-id-card-one"
+                ],
+                "post_status": [
+                    "publish"
+                ],
+                "taxonomy": [
+                    "category:perfil-nfc-id",
+                    "mepr-product-category:nfc-id",
+                    "nova-cartao:criar-nfc"
+                ],
+                "return_format": "object",
+                "multiple": 1,
+                "save_custom": 1,
+                "save_post_type": "post",
+                "save_post_status": "publish",
+                "post_author": [
+                    "current_user"
+                ],
+                "add_edit_post": 0,
+                "acfe_bidirectional": {
+                    "acfe_bidirectional_enabled": "0"
+                },
+                "allow_null": 0,
+                "allow_in_bindings": 0,
+                "bidirectional": 0,
+                "ui": 1,
+                "bidirectional_target": [],
+                "post_form_template": ""
+            },
+            {
+                "key": "field_67240a31ec7c6",
+                "label": "Delete Card",
+                "name": "",
+                "aria-label": "",
+                "type": "delete_post",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 1,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "button_text": "Delete",
+                "confirmation_text": "Are you sure you want to delete this card?",
+                "force_delete": 1,
+                "show_delete_message": 1,
+                "delete_message": "Your card has been deleted",
+                "redirect": "current",
+                "field_label_hide": 1,
+                "no_data_collect": 1
+            },
+            {
+                "key": "field_6728bbc4f9dce",
+                "label": "User Autor",
+                "name": "user_autor",
+                "aria-label": "",
+                "type": "user",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "frontend_admin_display_mode": "hidden",
+                "role": [
+                    "pms_subscription_plan_12522",
+                    "pms_subscription_plan_12521",
+                    "wild_one_user",
+                    "corporate_wild_one",
+                    "administrator",
+                    "author"
+                ],
+                "return_format": "id",
+                "multiple": 0,
+                "acfe_bidirectional": {
+                    "acfe_bidirectional_enabled": "0"
+                },
+                "acfe_settings": "",
+                "acfe_validate": "",
+                "allow_null": 0,
+                "acfe_permissions": "",
+                "allow_in_bindings": 0,
+                "bidirectional": 0,
+                "bidirectional_target": []
+            },
+            {
+                "key": "field_6737644659882",
+                "label": "User Roles",
+                "name": "user_roles",
+                "aria-label": "",
+                "type": "acfe_user_roles",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "frontend_admin_display_mode": "hidden",
+                "user_role": [
+                    "corporate_wild_one",
+                    "pms_subscription_plan_12522",
+                    "administrator"
+                ],
+                "field_type": "checkbox",
+                "default_value": [],
+                "layout": "vertical",
+                "toggle": 0,
+                "allow_custom": 0,
+                "acfe_settings": "",
+                "acfe_validate": "",
+                "acfe_permissions": "",
+                "allow_in_bindings": 0,
+                "multiple": 0,
+                "allow_null": 0,
+                "choices": [],
+                "ui": 0,
+                "ajax": 0,
+                "placeholder": "",
+                "search_placeholder": "",
+                "other_choice": 0
+            },
+            {
+                "key": "field_675aeff751b69",
+                "label": "Layout ID",
+                "name": "layout_id",
+                "aria-label": "",
+                "type": "radio",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "frontend_admin_display_mode": "hidden",
+                "choices": {
+                    "Estilo A": "Estilo A",
+                    "Estilo B": "Estilo B",
+                    "Estilo C": "Estilo C",
+                    "Estilo D": "Estilo D"
+                },
+                "default_value": "",
+                "return_format": "value",
+                "acfe_settings": "",
+                "acfe_validate": "",
+                "allow_null": 0,
+                "other_choice": 0,
+                "acfe_permissions": "",
+                "allow_in_bindings": 0,
+                "layout": "vertical",
+                "save_other_choice": 0
+            },
+            {
+                "key": "field_6797f739a8887",
+                "label": "Token",
+                "name": "token",
+                "aria-label": "",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "frontend_admin_display_mode": "hidden",
+                "no_values_message": "",
+                "default_value": "",
+                "acfe_settings": "",
+                "acfe_validate": "",
+                "maxlength": "",
+                "acfe_permissions": "",
+                "allow_in_bindings": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": ""
+            },
+            {
+                "key": "field_6797f7b5a8888",
+                "label": "Novo Endpoint",
+                "name": "new_endpoint",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "frontend_admin_display_mode": "hidden",
+                "no_values_message": "",
+                "default_value": "",
+                "acfe_settings": "",
+                "acfe_validate": "",
+                "acfe_permissions": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "797"
+                },
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "526"
+                },
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "514"
+                },
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "7659"
+                },
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "1485"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "post"
+                }
+            ],
+            [
+                {
+                    "param": "post",
+                    "operator": "==",
+                    "value": "856"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "amorim"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "sn"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "caetano-baviera"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "the-wild-one-special"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "sn"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "caetano-baviera"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0,
+        "display_title": "",
+        "acfe_autosync": "",
+        "acfe_form": 0,
+        "no_values_message": "",
+        "acfe_meta": "",
+        "acfe_note": "",
+        "acfe_categories": {
+            "corporate-card": "Corporate Card",
+            "elder-card": "Elder Card",
+            "pet-card": "Pet Card",
+            "social-network": "Social Network",
+            "the-wild-one-special": "The Wild One Special"
+        }
+    },
+    {
+        "key": "group_6737357ebe87e",
+        "title": "Social Network",
+        "fields": [
+            {
+                "key": "field_6741f41c037db",
+                "label": "Social Network",
+                "name": "",
+                "aria-label": "",
+                "type": "accordion",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "open": 0,
+                "multi_expand": 1,
+                "endpoint": 0
+            },
+            {
+                "key": "field_6737358644103",
+                "label": "LinkdeIn",
+                "name": "linkdein_link",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_673735c944104",
+                "label": "Instagram",
+                "name": "instagram_link",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_673735dd44105",
+                "label": "Facebook",
+                "name": "facebook_link",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_673735ef44106",
+                "label": "X Twitter",
+                "name": "x_twitter_link",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_673e0761bbe9b",
+                "label": "Threads",
+                "name": "threads",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_67374d7df6dcc",
+                "label": "Youtube",
+                "name": "youtube",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_67374e1af6dcd",
+                "label": "Tik Tok",
+                "name": "tik_tok",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_67374d48422cd",
+                "label": "Pintrest",
+                "name": "pintrest",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_67374e26f6dce",
+                "label": "SnapChat",
+                "name": "snapchat",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_6751d967b865a",
+                "label": "Google Review",
+                "name": "google_review",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "no_values_message": "",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_67ffcadc487fe",
+                "label": "Spotify",
+                "name": "spotify",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            },
+            {
+                "key": "field_67f066254ae41",
+                "label": "Outros",
+                "name": "outros",
+                "aria-label": "",
+                "type": "url",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "50",
+                    "class": "",
+                    "id": ""
+                },
+                "only_front": 0,
+                "frontend_admin_display_mode": "edit",
+                "default_value": "",
+                "allow_in_bindings": 0,
+                "placeholder": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "526"
+                }
+            ],
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "520"
+                }
+            ],
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "6939"
+                }
+            ],
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "797"
+                }
+            ],
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "6939"
+                }
+            ],
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "6939"
+                }
+            ],
+            [
+                {
+                    "param": "post",
+                    "operator": "==",
+                    "value": "1699"
+                },
+                {
+                    "param": "post",
+                    "operator": "==",
+                    "value": "811"
+                }
+            ],
+            [
+                {
+                    "param": "post_category",
+                    "operator": "==",
+                    "value": "category:nfc-card"
+                },
+                {
+                    "param": "post_category",
+                    "operator": "==",
+                    "value": "category:perfil-nfc-id"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "the-wild-one-special"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "nfc-id-card-one"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "amorim"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "caetano-baviera"
+                },
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "all"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "sn"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "caetano-baviera"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "the-wild-one-special"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "sn"
+                }
+            ],
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "caetano-baviera"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "left",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": "",
+        "show_in_rest": 0,
+        "display_title": "",
+        "acfe_autosync": [
+            "php",
+            "json"
+        ],
+        "acfe_form": 0,
+        "no_values_message": "",
+        "acfe_meta": "",
+        "acfe_note": "",
+        "acfe_categories": {
+            "corporate-card": "Corporate Card",
+            "social-network": "Social Network",
+            "the-wild-one-special": "The Wild One Special"
+        }
+    },
+    {
+        "key": "post_type_677769ede59d0",
+        "title": "Caetano's Baviera",
+        "menu_order": 0,
+        "active": true,
+        "post_type": "caetano-baviera",
+        "advanced_configuration": true,
+        "import_source": "",
+        "import_date": "",
+        "labels": {
+            "name": "Caetano's Baviera",
+            "singular_name": "Caetano Baviera",
+            "menu_name": "Caetano's Baviera",
+            "all_items": "Todos os Caetano's Baviera",
+            "edit_item": "Editar Caetano Baviera",
+            "view_item": "Ver Caetano Baviera",
+            "view_items": "Ver Caetano's Baviera",
+            "add_new_item": "Adicionar novo Caetano Baviera",
+            "add_new": "Adicionar novo Caetano Baviera",
+            "new_item": "Novo Caetano Baviera",
+            "parent_item_colon": "Caetano Baviera superior:",
+            "search_items": "Pesquisa Caetano's Baviera",
+            "not_found": "Nenhum caetano's baviera encontrado",
+            "not_found_in_trash": "Nenhum caetano's baviera encontrado no lixo",
+            "archives": "Arquivo de Caetano Baviera",
+            "attributes": "Atributos de Caetano Baviera",
+            "featured_image": "",
+            "set_featured_image": "",
+            "remove_featured_image": "",
+            "use_featured_image": "",
+            "insert_into_item": "Inserir em caetano baviera",
+            "uploaded_to_this_item": "Carregados para este caetano baviera",
+            "filter_items_list": "Filtrar lista de caetano's baviera",
+            "filter_by_date": "Filtrar caetano's baviera por data",
+            "items_list_navigation": "Navegação da lista de Caetano's Baviera",
+            "items_list": "Lista de Caetano's Baviera",
+            "item_published": "Caetano Baviera publicado.",
+            "item_published_privately": "Caetano Baviera publicado em privado.",
+            "item_reverted_to_draft": "Caetano Baviera revertido para rascunho.",
+            "item_scheduled": "Caetano Baviera agendado.",
+            "item_updated": "Caetano Baviera actualizado.",
+            "item_link": "Ligação de Caetano Baviera",
+            "item_link_description": "Uma ligação para um caetano baviera."
+        },
+        "description": "",
+        "public": true,
+        "hierarchical": false,
+        "exclude_from_search": false,
+        "publicly_queryable": true,
+        "show_ui": true,
+        "show_in_menu": true,
+        "admin_menu_parent": "",
+        "show_in_admin_bar": true,
+        "show_in_nav_menus": true,
+        "show_in_rest": false,
+        "rest_base": "",
+        "rest_namespace": "wp\/v2",
+        "rest_controller_class": "WP_REST_Posts_Controller",
+        "menu_position": "",
+        "menu_icon": {
+            "type": "dashicons",
+            "value": "dashicons-admin-post"
+        },
+        "rename_capabilities": false,
+        "singular_capability_name": "post",
+        "plural_capability_name": "posts",
+        "supports": [
+            "title",
+            "author",
+            "comments",
+            "trackbacks",
+            "editor",
+            "excerpt",
+            "revisions",
+            "page-attributes",
+            "thumbnail",
+            "custom-fields",
+            "post-formats"
+        ],
+        "taxonomies": [
+            "category",
+            "nova-cartao",
+            "elementor_font_type",
+            "elementor_library_category",
+            "elementor_library_type",
+            "wpcode_type",
+            "wpcode_tags",
+            "wpcode_location",
+            "post_format",
+            "post_tag"
+        ],
+        "has_archive": false,
+        "has_archive_slug": "",
+        "rewrite": {
+            "permalink_rewrite": "post_type_key",
+            "with_front": "1",
+            "feeds": "0",
+            "pages": "1"
+        },
+        "query_var": "post_type_key",
+        "query_var_name": "",
+        "can_export": true,
+        "delete_with_user": false,
+        "register_meta_box_cb": "",
+        "enter_title_here": ""
+    }
+]
